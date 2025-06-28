@@ -44,7 +44,7 @@ initPinpoint();
 
 ## 🧩 Core Modules
 
-- `/ui` — Overlay, highlighter, comment modal components
+- `/components` — Overlay, highlighter, comment modal components
 - `/core` — DOM tracking, event logging, screenshot logic
 - `/api` — API client for sending data to backend
 - `index.ts` — Public SDK entry point

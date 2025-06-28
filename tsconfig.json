@@ -10,7 +10,10 @@
     "declaration": true,
     "declarationDir": "dist/types",
     "outDir": "dist",
-    "baseUrl": "./src"
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": ["./*"]
+    }
   },
   "include": ["src"]
 }
